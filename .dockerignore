@@ -40,5 +40,4 @@ htmlcov/
 Thumbs.db
 
 # Project specific
-model/*.pkl
 *.log 
